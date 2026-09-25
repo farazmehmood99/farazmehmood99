@@ -2,13 +2,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=005FEA&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Faraz+Mehmood;Software+Engineer;Flutter+%26+Dart+Developer;Full-Stack+Web+Engineer;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">🚀 Software Engineer · Flutter Mobile Apps · Full-Stack Web Development</h3>
+<h3 align="center">Full-Stack Software Engineer - Mobile & Web Apps · </h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/faraz-mehmood-808046360" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://wa.me/923154236363" target="_blank">
+  <a href="https://wa.me/923339097637" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="mailto:farazmehmood003@gmail.com">
@@ -37,7 +37,7 @@
 **🔭 Currently working on:**
 - 📱 Cross-platform mobile apps with **Flutter & Dart**
 - 🌐 Modern web apps with **Next.js 14 & React 18**
-- ☁️ Cloud backends with **Firebase & Supabase**
+- ☁️ Cloud backends with **Firebase & Supabase & MangoDB**
 
 ---
 
@@ -168,8 +168,8 @@
 ## 🤝 Let's Connect!
 
 <p align="center">
-  <a href="https://wa.me/923154236363" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-+923154236363-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://wa.me/923339097637" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Connect-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/faraz-mehmood-808046360" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Faraz_Mehmood-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
